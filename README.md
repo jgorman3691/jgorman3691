@@ -1,4 +1,4 @@
-Alt-H1  Hello there!  I'm Jed Gorman.
+Hello there!  I'm Jed Gorman.
 ======
 
 ### Hi there 👋

@@ -2,7 +2,7 @@ Hello there!  I'm Jed Gorman.
 ======
 
 ### Hi there 👋
-
+\usepackage{amsmath}
 Prequel memes aside, welcome to my Github.  This is the README for the Repository itself.  *whoa dude, that's so meta...* (__Do not encourage this behavior_)
 
   Skill wise, I have had an interesting journey, with many bends and unexpected *discontinuities* due to life circumstances.

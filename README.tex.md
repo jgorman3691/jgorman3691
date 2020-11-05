@@ -2,7 +2,7 @@ Hello there!  I'm Jed Gorman.
 ======
 
 ### Hi there 👋
-\usepackage{amsmath}
+
 Prequel memes aside, welcome to my Github.  This is the README for the Repository itself.  *whoa dude, that's so meta...* (__Do not encourage this behavior_)
 
   Skill wise, I have had an interesting journey, with many bends and unexpected *discontinuities* due to life circumstances.
@@ -61,7 +61,7 @@ Cue several years of unmentionable experiences
   So I got a 32GB computer with an NVidia RTX 2080 TI graphics card for when school starts.
   
   - ⚡ Fun fact: ... I didn't use it for gaming for two months after building it.
-  
+\usepackage{amsmath}  
   I found a book called "Grokking Deep Learning", and I cannot understate the effect that book has had on my understanding of deep learning, neural networks, and different architectures in general.  I set up Conda and Jupyter, wrestled with CUDA and CUdnn until they behaved, and went through the book.  I'm still confused by quite a bit of the material, but that's to be expected from an introductory book.  One single "sentence" of symbols crystallized my understanding of what I was building, and improved my ability to learn by leaps and bounds. That sentence was just the Neural Network, but in Mathematical Notation: 
 Input times the first set of weights  $$\mathit(I{0})\mathbf(W{0})$$
 The resulting hidden layer times the next weight matrix $$\mathif(I{1})\mathbf(W{0})$$
